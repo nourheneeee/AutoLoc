@@ -1,18 +1,12 @@
-# \# AutoLoc
+# \## Cas d'utilisation identifiés
 
-# 
+# \- Le Client peut consulter les véhicules disponibles et faire une réservation
 
-# Plateforme de gestion de location de véhicules multi-agences.
+# \- Le Client peut annuler ou modifier une réservation
 
-# 
+# \- L'Agent d'agence peut enregistrer la remise et le retour d'un véhicule
 
-# \## Acteurs identifiés
+# \- Le Responsable d'agence peut gérer le parc de véhicules de son agence
 
-# \- Client
-
-# \- Agent d'agence
-
-# \- Responsable d'agence
-
-# \- Administrateur
+# \- L'Administrateur peut gérer les agences et les comptes utilisateurs
 
